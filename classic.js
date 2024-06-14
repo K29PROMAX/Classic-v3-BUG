@@ -193,7 +193,7 @@ const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ?
  message:{"orderMessage":{"orderId":"174238614569438",
  "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
- "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+ "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
  contextInfo: {"mentionedJid":m.sender.split, "forwardingScore":999,"isForwarded":true}}
  
@@ -240,33 +240,33 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃,𝑻𝑶𝑯𝑰𝑫࿈⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
+        mediaUrl: `https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
         mediaType: 2, 
         thumbnail:sangean
         }}}, { quoted: zets })}
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺`,
+        title : `⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
         mediaType: 2, 
         thumbnail:virgam
         }}}, { quoted: kalgans })}
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
         mediaType: 2, 
         thumbnail:hinachan
         }}}, { quoted: zets })} 
@@ -778,8 +778,8 @@ break
 //=================================================//
 case 'menu': case 'help': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -830,20 +830,20 @@ await loading()
 ┃  ╰╼╼╼╼╼╼╼╼╼╯
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━
-┃    *▓ ❰ 𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024 ❱ ▓*
+┃    *▓ ❰ 𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024 ❱ ▓*
 ┗━━━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: ' ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ ᚘᚙ', 
+  title: ' ⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺',
+  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉⫺ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -851,8 +851,8 @@ break
 //=================================================//
 case 'bugmenu': {
 await loading()
-                            ewe = `┏━━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -891,7 +891,7 @@ await loading()
 ┃➟ scheduleobject 62852X
 ┃➟ eatmydickk 62852X
 ┣━━━━━━━━━━━━━━━━
-┃   ➥➥❴⧠ 𝐁𝐘 𝐒𝐀𝐌 ⧠❵➥➥
+┃   ➥➥❴⧠ 𝐁𝐘 𝑻𝑶𝑯𝑰𝑫 ⧠❵➥➥
 ┣━━━━━━━━━━━━━━━━
 ┃┏━━❴ 𝑩𝑼𝑮 + 𝑵𝒖𝒎𝒃𝒆𝒓 ❵━━━
 ┃➟ 𝒖𝒏𝒍𝒊𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏 62852𝑿
@@ -904,7 +904,7 @@ await loading()
 ┃➟ 𝒔𝒄𝒉𝒆𝒅𝒖𝒍𝒆𝒐𝒃𝒋𝒆𝒄𝒕 62852𝑿
 ┃➟ 𝒆𝒂𝒕𝒎𝒚𝒅𝒊𝒄𝒌𝒌 62852𝑿
 ┣━━━━━━━━━━━━━━━━━
-┃  ➥➥❴⧠ 𝐁𝐘 𝐒𝐀𝐌 ⧠❵➥➥
+┃  ➥➥❴⧠ 𝐁𝐘 𝑻𝑶𝑯𝑰𝑫 ⧠❵➥➥
 ┣━━━━━━━━━━━━━━━━━
 ┃┏╼╼╼❴ 𝑩𝑼𝑮 𝑮𝑹𝑶𝑼𝑷 ❵╼╼╼╼
 ┃➟ 𝒖𝒏𝒍𝒊𝒅𝒆𝒍𝒂𝒚𝒈𝒄 (𝑰𝑫 𝑮𝑹𝑶𝑼𝑷)
@@ -921,7 +921,7 @@ await loading()
 ┃➟ 𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒛 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┃➟ 𝒈𝒂𝒔𝒇𝒖𝒍𝒍𝒈𝒄 (𝑮𝑹𝑶𝑼𝑷 𝑳𝑰𝑵𝑲)
 ┣━━━━━━━━━━━━━━━━━━
-┃  ➥❴⧠ *𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ®2024* ⧠❵➥
+┃  ➥❴⧠ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3 ®2024* ⧠❵➥
 ┃━━━━━━━━━━━━━━━━━━
 ┃┏━━❴ 𝑺𝑬𝑵𝑫 𝑩𝑼𝑮 𝑫𝑰𝑹𝑬𝑪𝑻 ❵━━
 ┃➟ 𝒈𝒆𝒕𝒂𝒕𝒕𝒆𝒏𝒕𝒊𝒐𝒏𝒃𝒖𝒈
@@ -940,7 +940,7 @@ await loading()
 ┃➟ 𝒗𝒊𝒓𝒑𝒆𝒏
 ┃➟ 𝒄𝒂𝒍𝒍𝒅𝒆𝒍𝒂𝒚
 ┃┗━━━━━━━━━━━━━━━━━━
-┃➥❴❏ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ®2024⧠❵ ➥        
+┃➥❴❏ 𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3 ®2024⧠❵ ➥        
 ┣━━━━━━━━━━━━━━━━━━━
 ┣━━━━━━━❴ 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 ❵━━━━━
 ┃
@@ -948,7 +948,7 @@ await loading()
 ┃᪣ 𝒔𝒑𝒂𝒎𝒔𝒎𝒔 (628𝒙𝒙)
 ┃᪣ 𝒄𝒂𝒍𝒍 (628𝒙𝒙)
 ┃┗╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼
-┃    ➥➥➥➥❴ 𝑩𝒀 𝑺𝑨𝑴 ❵➥➥➥➥
+┃    ➥➥➥➥❴ 𝑩𝒀 𝑻𝑶𝑯𝑰𝑫 ❵➥➥➥➥
 ┣╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼
 ┃┏╼❴ 𝑼𝑵𝑩𝑨𝑵𝑵 𝑻𝑬𝑿𝑻 ❵╼╼╼╼╼╼╼╼
 ┃➢ 𝒖𝒏𝒃𝒂𝒏𝒗1 62852𝑿
@@ -972,7 +972,7 @@ await loading()
 ┃➟ 𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏3
 ┃➟ 𝒕𝒆𝒙𝒕𝒖𝒏𝒃𝒂𝒏4
 ┃┗╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼
-┃   ➥➥➥❴⧠ 𝑩𝒀 𝑺𝑨𝑴 ⧠❵➥➥➥➥
+┃   ➥➥➥❴⧠ 𝑩𝒀 𝑻𝑶𝑯𝑰𝑫 ⧠❵➥➥➥➥
 ┣╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼
 ┃┏⊱ 𝑳𝑶𝑮𝑶𝑼𝑻 (𝑲𝑯𝑼𝑺𝑼𝑺 62)
 ┃➟ 𝒌𝒆𝒏𝒐𝒏𝒊𝒏 62852𝑿
@@ -980,7 +980,7 @@ await loading()
 ┃➟ 𝒋𝒆𝒃0𝒍 62852𝑿
 ┃➟ 𝒖𝒏𝒃𝒂𝒏𝒗1 62852𝑿
 ┃┗━━━━━━━━━━━━━━━━━━━━━━━
-┃   ➥➥❴⧠ *𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ®2024* ⧠❵➥➥
+┃   ➥➥❴⧠ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3 ®2024* ⧠❵➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━━━━
  
 `
@@ -988,21 +988,21 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: 'ᚙᚘ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
+  title: 'ᚙᚘ ⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3 ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
+  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
 case 'pushmenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1026,7 +1026,7 @@ await loading()
 ┃➢ 𝐩𝐮𝐛𝐥𝐢𝐜
 ┃➢ 𝐬𝐞𝐥𝐟
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥➥➥❴⧠ 𝗕𝗬 𝗦𝗔𝗠 ⧠❵➥➥➥➥
+┃ ➥➥➥➥❴⧠ 𝗕𝗬 𝑻𝑶𝑯𝑰𝑫 ⧠❵➥➥➥➥
 ┣━━━━━━━━━━━━━━━━━━━━
 ┣━━━━━━━━━❴ 𝗣𝘂𝘀𝗵 ❵━━━━━━━
 ┃
@@ -1037,20 +1037,20 @@ await loading()
 ┃➟ 𝐩𝐮𝐬𝐡𝐤𝐨𝐧𝐭𝐚𝐤 𝐭𝐞𝐤𝐬 (𝐬𝐞𝐧𝐭 𝐭𝐨 𝐆𝐂)
 ┃
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❴ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❵➥➥
+┃ ➥➥❴ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024* ❵➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━  
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
+  title: '⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺',
+  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1058,8 +1058,8 @@ break
 //=================================================//
 case 'groupmenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1084,7 +1084,7 @@ await loading()
 ┃➢ 𝐬𝐞𝐥𝐟
 ┃┗━━━━━━━━━━━━━━━━━
 ┣━━━━━━━❴ GROUPMENU ❵━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024* ❱➥➥
 ┣━━━━━━━━━━━━━━━━━━
 ┃➟ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
 ┃➟ 𝖆𝖓𝖙𝖎𝖑𝖎𝖓𝖐 𝖔𝖓 / 𝖔𝖋𝖋
@@ -1119,20 +1119,20 @@ await loading()
 ┃➟➟𝖙𝖔𝖕𝖙𝖛
 ┃➟ 𝖇𝖚𝖆𝖙𝖘𝖜
 ┣━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺⿻',
+  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1140,8 +1140,8 @@ break
 //=================================================//
 case 'downloadmenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1181,20 +1181,20 @@ await loading()
 ┃➟ 𝐏𝐥𝐚𝐲 
 ┃➟ 𝐠𝐞𝐭𝐯𝐢𝐝𝐞𝐨 (𝐫𝐞𝐩𝐥𝐲 𝐡𝐚𝐬𝐢𝐥)
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺',
+  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1202,8 +1202,8 @@ break
 //=================================================//
 case 'randommenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1276,20 +1276,20 @@ await loading()
 ┃➟ 𝒄𝒆𝒓𝒊𝒕𝒂𝒉𝒐𝒓𝒐𝒓
 ┃➟ 𝒄𝒖𝒂𝒄𝒂
 ┃┗━━━━━━━━━━━━━━━━━━
-┃ ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃ ➥➥➥❰*𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 𝐊𝐢𝐧𝐠 𝐒𝐚𝐦 ᚛⿻',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺༔༐༑', 
+  title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 𝐊𝐢𝐧𝐠 𝑻𝑶𝑯𝑰𝑫 ᚛⿻',
+  body: '༐༑⿻⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1297,8 +1297,8 @@ break
 //=================================================//
 case 'Islammenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1332,19 +1332,19 @@ await loading()
 ┃➟ 𝐚𝐥𝐪𝐮𝐫𝐚𝐧
 ┃➟ 𝐥𝐢𝐬𝐭𝐬𝐮𝐫𝐚𝐡
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃  ➥➥➥❰*𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉',
+  body: '⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1352,8 +1352,8 @@ break
 //=================================================//
 case 'textmaker': {
 await loading()
-                            ewe = `┏━━━❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3* ❱━━━━━━ 
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━❰ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3* ❱━━━━━━ 
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1414,20 +1414,20 @@ await loading()
 ┃➟ 𝒉𝒐𝒓𝒓𝒐𝒓𝒃𝒍𝒐𝒐𝒅
 ┃➟ 𝒕𝒉𝒖𝒏𝒅𝒆𝒓
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉',
+  body: '༐༑⿻⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1435,8 +1435,8 @@ break
 //=================================================//
 case 'listmusik': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1626,20 +1626,20 @@ await loading()
 ┃➟ 𝐬𝐨𝐮𝐧𝐝160
 ┃➟ 𝐬𝐨𝐮𝐧𝐝161
 ┃┗━━━━━━━━━━━━━━━━━
-┃   ➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥
+┃   ➥❰*𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024*❱➥
 ┗━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃,𝑻𝑶𝑯𝑰𝑫⸙⧉',
+  body: '༐༑⿻⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1647,8 +1647,8 @@ break
 //=================================================//
 case 'addmenu': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1672,7 +1672,7 @@ await loading()
 ┃➢ 𝐩𝐮𝐛𝐥𝐢𝐜
 ┃➢ 𝐬𝐞𝐥𝐟
 ┃┗━━━━━━━━━━━━━━━━━━
-┃➥➥➥➥➥⧠ 𝗕𝗬 𝗦𝗔𝗠 ⧠➥➥➥➥➥
+┃➥➥➥➥➥⧠ 𝗕𝗬 𝑻𝑶𝑯𝑰𝑫 ⧠➥➥➥➥➥
 ┃━━━━━━━━━━━━━━━━━━━
 ┃
 ┃┏━━━━━ 𝑨𝑫𝑫 𝑴𝑬𝑵𝑼 ━━━━━
@@ -1704,19 +1704,19 @@ await loading()
 ┃➟ 𝒅𝒆𝒍𝒎𝒔𝒈
 ┃➟ 𝒈𝒆𝒕𝒎𝒔𝒈
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃  ➥➥❰ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',showAdAttribution: true,
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉',
+  body: '༐༑⿻⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺',showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1724,8 +1724,8 @@ break
 //=================================================//
 case 'cucimata': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1802,20 +1802,20 @@ await loading()
 ┃➟ 𝐡𝐢𝐠𝐡𝐟𝐢𝐯𝐞
 ┃➟ 𝐡𝐚𝐧𝐝𝐡𝐨𝐥𝐝
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂⸙⫺', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉',
+  body: '༐⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1823,8 +1823,8 @@ break
 //=================================================//
 case 'beritamenu': {
 await loading()
-                            ewe = `┏━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1870,20 +1870,20 @@ await loading()
 ┃➟ 𝒎𝒆𝒓𝒅𝒆𝒌𝒂
 ┃➟ 𝒋𝒂𝒍𝒂𝒏𝒕𝒊𝒌𝒖𝒔-𝒎𝒆𝒎𝒆
 ┃┗━━━━━━━━━━━━━━━━━━
-┃ ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃ ➥➥➥❰*𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⸙⫺', 
+  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉',
+  body: '⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1891,8 +1891,8 @@ break
 //=================================================//
 case 'asupan': {
 await loading()
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 𝗕𝗢𝗧* ▓━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑻𝑶𝑯𝑰𝑫 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1941,20 +1941,20 @@ await loading()
 ┃➟ asupan18
 ┃➟ asupan20
 ┃┗━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝗩3 ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝑻𝑶𝑯𝑰𝑫⸙⧉',
+  body: '⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+  sourceUrl:`https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -2210,7 +2210,7 @@ break
 //=================================================//
 case 'addprem':
 if (!isCreator) return reply('*Premium Command*')
-if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 258869103969`)
+if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 917849917350`)
 bnnd = text.split("|")[0].replace(/[^0-9]/g, '')
 let ceknye = await zetsubo.onWhatsApp(bnnd + `@s.whatsapp.net`)
 if (ceknye.length == 0) return reply(`Masukkan Nomor Yang Valid Dan Terdaftar Di WhatsApp!!!`)
@@ -2221,7 +2221,7 @@ break
 //=================================================//
 case 'delprem':
 if (!isCreator) return reply('*Premium Command*')
-if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 258869103969`)
+if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 917849917350`)
 yaki = text.split("|")[0].replace(/[^0-9]/g, '')
 unp = owner.indexOf(yaki)
 owner.splice(unp, 1)
@@ -2241,7 +2241,7 @@ break
 //=================================================//
 case 'pengguna':  {
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
-if (!args[0]) return reply(`*Contoh : ${command} add 258869103969*`)
+if (!args[0]) return reply(`*Contoh : ${command} add 917849917350`)
 if (args[1]) {
 orgnye = args[1] + "@s.whatsapp.net"
 } else if (m.quoted) {
@@ -2920,8 +2920,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺",
-"title": "༐༑⿻𝐒᪣𝐀⚔𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"mimetype": "⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺",
+"title": "༐༑⿻𝑻𝑶𝑯𝑰𝑫𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -3629,7 +3629,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `༐༑𝐒⸙𝐀ᚗ𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑${cttl}`, // 
+"orderTitle": `༐༑𝑻𝑶𝑯𝑰𝑫𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑${cttl}`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -4042,8 +4042,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻𝑺⸙𝑨᪣𝑴𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻𝑻𝑶𝑯𝑰𝑫𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -4051,7 +4051,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻𝑻𝑶𝑯𝑰𝑫𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -4074,7 +4074,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "status": "INQUIRY",
 "surface": "CATALOG",
 "message": teks,
-"orderTitle": `༐༑⿻𝐒⸙𝐀࿈𝐌➟𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑`, // 
+"orderTitle": `༐༑⿻𝑻𝑶𝑯𝑰𝑫➟𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑`, // 
 "sellerJid": "6289503267904@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
@@ -4152,8 +4152,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
-"title": "༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"mimetype": "༐༑⿻⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑",
+"title": "༐༑⿻𝑻𝑶𝑯𝑰𝑫𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -4161,7 +4161,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐂𝐋𝐀𝐒𝐒𝐈𝐂𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(bnnd, document.message, { messageId: document.key.id })
@@ -5918,8 +5918,8 @@ for (let i = 0; i < jumlah; i++) {
 var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "documentMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AjZ6wydBPTW9LotpjZK5gSstbxj0L_B2sCeSm-JWLPPS.enc",
-"mimetype": "༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺༔༐༑",
-"title": "༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
+"mimetype": "༐⫹⸙⧉𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵-𝐕3 𝐁𝐔𝐆 𝐁𝐎𝐓⧉⸙⫺༔༐༑",
+"title": "༐༑⿻𝑻𝑶𝑯𝑰𝑫𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑",
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
@@ -5927,7 +5927,7 @@ var document = generateWAMessageFromContent(from, proto.Message.fromObject({
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
-"caption":` ༐༑⿻𝐒⸙𝐀࿈𝐌𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
+"caption":` ༐༑⿻𝑻𝑶𝑯𝑰𝑫𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑.${buttonkal}`,
 }
 }), { userJid: from, quoted:kalgans})
 zetsubo.relayMessage(from, document.message, { messageId: document.key.id })
@@ -7873,7 +7873,7 @@ break
 case 'tagall': {
 if (!m.isGroup) return
 await loading()
-let teks = `══᪣⧠ *࿉ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕-3࿉* ⧠᪣══
+let teks = `══᪣⧠ *࿉ 𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵 𝐕-3࿉* ⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🎲 @${mem.id.split('@')[0]}\n`
@@ -8177,7 +8177,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let pinga = `𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵 𝐁𝐨𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -8186,7 +8186,7 @@ case 'runtime':
                             title: botname,
                             body: ownername,
                             thumbnailUrl: 'zetszet/cheemspic.jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk',
+                            sourceUrl: 'https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -8312,7 +8312,7 @@ case 'ping': {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝕮𝖑𝖆𝖘𝖘𝖎𝖋𝖎𝖊𝖉 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵 ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
@@ -8523,9 +8523,9 @@ await loading()
  zetsubogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-title: `KING SAM`,
-sourceUrl: `https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk`, 
+MediaUrl:`https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg`,
+title: `KING TOHID`,
+sourceUrl: `https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu`, 
 }
 }})
 break
@@ -8542,8 +8542,8 @@ break
 //=================================================
 case 'sc': case 'script': case 'repo':
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/b103691007c8ce5ee8a94.jpg` }, caption: 
-`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝑪𝑳𝑨𝑺𝑺𝑰𝑪_𝑨𝑰 𝑩𝑶𝑻 ☣.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Samue-l1/Classic-v3-BUG ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐊𝐈𝐍𝐆 𝐒𝐀𝐌 ✇\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+ zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg` }, caption: 
+`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵_𝑨𝑰 𝑩𝑶𝑻 ☣.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/tohidkhan6332/Classic-v3-BUG ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐊𝐈𝐍𝐆 𝑻𝑶𝑯𝑰𝑫 ✇\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
 //=================================================
@@ -8573,10 +8573,10 @@ case 'broadcast':
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐁𝐎𝐓',
+                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵 𝐁𝐎𝐓',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg',
-                                sourceUrl: 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk',
+                                thumbnailUrl: 'https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg',
+                                sourceUrl: 'https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
@@ -8602,10 +8602,10 @@ const audiovn = "./Classic.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
-          body: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
-          thumbnailUrl: "https://telegra.ph/file/f6d66a60454e31e0a2c0d.jpg",
-          sourceUrl: "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk",
+          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          body: "https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu",
+          thumbnailUrl: "https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg",
+          sourceUrl: "https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu",
           mediaType: 1,
           renderLargerThumbnail: true
           }}
@@ -9226,9 +9226,9 @@ let { toPTT } = require('./lib/converter')
 let audio = await toPTT(media, 'mp4')
 zetsubo.sendMessage(from, {audio: audio, mimetype:'audio/mpeg', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/6289503267904',
+mediaUrl: 'https://wa.me/917849917350',
 title: `ZetsuboXygen`,
-sourceUrl: `https://wa.me/6289503267904`, 
+sourceUrl: `https://wa.me/917849917350`, 
 thumbnail: thumb
 }
 }})
@@ -9237,7 +9237,7 @@ break
 //=================================================//
 case 'restart':  
   if (!isCreator) throw `Owner Only` 
-  reply(`*Restarting Classic* .`)  
+  reply(`*Restarting TohidKhan* .`)  
   await sleep(3000)  
   process.exit()  
   break;
@@ -9782,7 +9782,7 @@ case 'play':
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption: "➻ 𝐁𝐘 𝐂𝐋𝐀𝐒𝐒𝐈𝐂_𝐁𝐎𝐓 ❖ ",    
+			caption: "➻ 𝐁𝐘 𝑻𝑶𝑯𝑰𝑫𝑲𝑯𝑨𝑵_𝐁𝐎𝐓 ❖ ",    
                     }, {
                         quoted: m 
                     }
@@ -10499,9 +10499,9 @@ if (!text) return reply(`masukin text nya yang ada di database listvn`)
 var buu = fs.readFileSync(`./database/Audio/${text}.mp3`)
 zetsubo.sendMessage('status@broadcast', {audio: buu, mimetype:'audio/mp4', ptt:true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://wa.me/6289503267904',
+mediaUrl: 'https://wa.me/917849917350',
 title: `zetsubo`,
-sourceUrl: `https://wa.me/6289503267904`, 
+sourceUrl: `https://wa.me/917849917350`, 
 thumbnail: thumb}}},{
 backgroundColor: '#FF000000',
 statusJidList: pengguna
