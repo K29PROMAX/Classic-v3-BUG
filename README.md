@@ -1,8 +1,8 @@
  
 
-<h1 align="center">ꪶ𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝗕𝗼𝘁-𝗩3ꫂ<br></h1>
+<h1 align="center">ꪶ𝐓𝐎𝐇𝐈𝐃𝐊𝐇𝐀𝐍 𝗕𝗼𝘁-𝗩3ꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/e7e75787f251b2e78896d.jpg" />
+<img src="https://telegra.ph/file/042cd0b6121a7923fd5d2.jpg" />
 </p>
 
 <p align="center">
@@ -32,26 +32,26 @@
 ## ```Connect With Me```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
+<a href="https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
 
 
 ## ```Bot Support Group Chats```
 
-- [`1st GC`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
-- [`2nd GC`](https://chat.whatsapp.com/I1KRg1SCXcl2fuwtpG24hU)
-- [`Channel`](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
+- [`1st GC`](https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu)
+- [`2nd GC`](https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu)
+- [`Channel`](https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu)
 
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [`Here`](https://github.com/Samue-l1/Classic-v3-BUG/fork)
+- FORK THE REPOSITORY [`Here`](https://github.com/tohidkhan6332/Classic-v3-BUG/fork)
 
 ## `Generate Pair Code For Session`
 
 [`Classic Pairing`](https://replit.com/@pesguru02/Classic-Pairing)
 
-[`HOW TO DEPLOY VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
+[`HOW TO DEPLOY VIDEO TUTORIAL`](https://youtu.com/tohidkhan_6332)
 
 # Instalasi
 ## Heroku Buildpack
