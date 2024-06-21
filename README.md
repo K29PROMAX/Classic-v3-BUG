@@ -15,14 +15,14 @@
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Classic-v3-BUG?color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Samue-l1/Classic-v3-BUG?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Samue-l1/Classic-v3-BUG?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/Samue-l1/Classic-v3-BUG?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Samue-l1%2FClassic-v3-BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/tohidkha6332/followers"><img title="Followers" src="https://img.shields.io/github/followers/tohiskhan63321?color=red&style=flat-square"></a>
+<a href="https://github.com/tohidkhan6332/Classic-v3-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/tohidkhan6332/Classic-v3-BUG?color=blue&style=flat-square"></a>
+<a href="https://github.com/tohidkhan6332/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/tohidkhan6333/Classic-v3-BUG?color=red&style=flat-square"></a>
+<a href="https://github.com/tohidkhan6332/Classic-v3-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Samue-l1/Classic-v3-BUG?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/tohidkhan6332/Classic-v3-BUG"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/tohidkhan6332/Classic-v3-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/tohidkhan6332/Classic-v3-BUG?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2tohidkhan6332%2FClassic-v3-BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/tohidkhan6332/Classic-v3-BUG/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -32,7 +32,7 @@
 ## ```Connect With Me```
 <p align="center">
 
-<a href="https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
+<a href="https://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/FPQYQkbqzqw8XOGdDWoxwu" /><br>
 
 
 ## ```Bot Support Group Chats```
@@ -64,7 +64,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
-* Locate Classic-v3-BUG
+* Locate tohidkhanv1
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -82,7 +82,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Samue-l1/Classic-v3-BUG
+git clone https://github.com/tohidkhan6332/Classic-v3-BUG
 cd Classic-v3-BUG
 yarn install
 npm start
@@ -95,7 +95,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Samue-l1/Classic-v3-BUG 
+git clone https://github.com/tohidkhan6332/Classic-v3-BUG 
 cd Classic-v3-BUG
 npm start
 ```
